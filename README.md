@@ -1,198 +1,113 @@
-# SazM Dashboard + Landing Page Template
+# SazM Templates
 
-A modern open-source **dashboard and landing page template** built with the latest web technologies.
+Modern **Next.js, React, and Tailwind CSS templates** for building production-ready web applications.
 
-Built with:
+This repository contains **dashboard and landing page templates** designed for:
 
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
-* shadcn/ui
-
-This template provides a **production-ready foundation** for building:
-
-* SaaS dashboards
-* admin panels
+* SaaS platforms
+* admin dashboards
 * startup landing pages
-* internal business tools
+* internal tools
 * modern web applications
 
-Maintained by **SazM**.
-
+Maintained by **SazM**
 🌐 https://sazm.in
 
 ---
 
-# Live Demo
+# Keywords
 
-Original demo:
-
-https://shadcnstore.com/templates/dashboard/shadcn-dashboard-landing-template/dashboard
-
-> This repository contains the open-source template adapted for development and learning purposes.
+Next.js dashboard template
+Next.js landing page template
+React admin dashboard template
+Tailwind CSS dashboard template
+SaaS dashboard starter template
 
 ---
 
-# What's Included
+# Templates Included
 
-### Dashboard
+### Dashboard Template
 
-A modern admin dashboard featuring:
+A modern admin dashboard with:
 
-* analytics overview
-* charts and statistics
-* advanced data tables
+* analytics dashboards
+* data tables
 * authentication pages
 * settings pages
 * user management UI
-* application demos
+* application demo layouts
 
-### Landing Page
+### Landing Page Template
 
-A complete marketing landing page including:
+A production-ready marketing site including:
 
-* hero section
-* features
+* hero sections
+* feature sections
 * testimonials
-* pricing section
-* FAQ
-* call-to-action sections
-* contact section
+* pricing tables
+* FAQs
+* call-to-action blocks
 
 ---
 
 # Tech Stack
 
-## Framework
+Frontend
 
-* React
 * Next.js
+* React
 * TypeScript
-
-## UI
-
-* shadcn/ui
-* Radix UI
 * Tailwind CSS
-* Lucide icons
+* shadcn/ui
 
-## Development
+UI Components
 
-* ESLint
-* TypeScript
-* modern React patterns
+* Radix UI
+* Lucide Icons
+* modern responsive layouts
 
 ---
 
 # Project Structure
 
-```
-shadcn-dashboard/
-│
-├── vite-version/
-│   ├── src/
-│   ├── components/
-│   ├── hooks/
-│   └── lib/
-│
-├── nextjs-version/
-│   ├── src/
-│   │   ├── app/
-│   │   ├── components/
-│   │   ├── hooks/
-│   │   └── lib/
-│   └── package.json
-│
-└── README.md
+```text
+templates
+├── dashboard-template
+└── landing-page-template
 ```
 
 ---
 
 # Quick Start
 
-## Prerequisites
-
-* Node.js 18+
-* pnpm (recommended) or npm
-
----
-
-## 1. Clone the Repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/sazmco/sazm-templates
-cd sazm-templates
 ```
 
----
-
-## 2. Run the Vite Version
+Install dependencies:
 
 ```bash
-cd vite-version
 pnpm install
-pnpm dev
 ```
 
-Open:
-
-```
-http://localhost:5173
-```
-
----
-
-## 3. Run the Next.js Version
+Run development:
 
 ```bash
-cd nextjs-version
-pnpm install
 pnpm dev
-```
-
-Open:
-
-```
-http://localhost:3000
 ```
 
 ---
 
-# Development Commands
+# Use This Template
 
-### Vite
-
-```
-pnpm dev
-pnpm build
-pnpm preview
-pnpm lint
-```
-
-### Next.js
+You can start a new project instantly:
 
 ```
-pnpm dev
-pnpm build
-pnpm start
-pnpm lint
+Use this template → Create a new repository
 ```
-
----
-
-# Theme Customization
-
-The template supports easy theme customization using **Tailwind CSS and shadcn/ui design tokens**.
-
-You can modify:
-
-```
-globals.css
-tailwind.config.ts
-```
-
-to customize colors, spacing, and UI components.
 
 ---
 
@@ -200,26 +115,23 @@ to customize colors, spacing, and UI components.
 
 This template works well for:
 
-* SaaS platforms
+* SaaS products
 * startup dashboards
 * internal company tools
-* AI products
-* admin interfaces
-* analytics dashboards
+* marketing websites
+* AI platforms
 
 ---
 
 # About SazM
 
-**SazM** builds scalable web platforms and automation systems.
+SazM builds scalable web platforms and automation systems.
 
 Services include:
 
 * Web Development
 * Website Maintenance
 * Headless CMS Development
-* WordPress Development
-* E-commerce Development
 * AI Integration
 * Automation Workflows
 * API Integrations
@@ -235,23 +147,10 @@ This project is based on the original template created by:
 
 https://github.com/silicondeck/shadcn-dashboard-landing-template
 
-We thank the original authors and the open-source ecosystem.
+We thank the original authors and the open-source community.
 
 ---
 
 # License
 
-MIT License
-
-You are free to:
-
-* use commercially
-* modify
-* distribute
-* include in private projects
-
-See the `LICENSE` file for details.
-
----
-
-⭐ If you find this repository useful, consider starring it.
+MIT
